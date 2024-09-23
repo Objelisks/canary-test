@@ -7,6 +7,8 @@ cors 11:30
 access token 11:45
 list repos 12:15
 
+starting again 1:00pm
+clean up list repos, save repo request 2:00
 
 
 npm run dev
